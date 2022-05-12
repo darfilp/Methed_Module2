@@ -10,3 +10,5 @@ lists[3].replaceWith(lists[4]);
 document.querySelectorAll('.content')[4].append(node3);
 lists[2].append(document.querySelectorAll('.props__item_two')[8]);
 lists[2].append(document.querySelectorAll('.props__item_two')[9]);
+
+document.querySelector('.ads').remove();
